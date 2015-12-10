@@ -1,3 +1,5 @@
+# Copyright (C) 2015 Rene Pihlak
+
 import numpy as np
 from sklearn import svm, metrics
 
